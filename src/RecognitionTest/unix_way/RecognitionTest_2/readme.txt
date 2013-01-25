@@ -1,0 +1,1 @@
+g++ `pkg-config opencv --cflags --libs` image-conversion.c -o image-conversion

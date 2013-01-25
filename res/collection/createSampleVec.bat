@@ -1,0 +1,1 @@
+opencv_createsamples.exe -vec positive.vec -img ./positive/speed_20.jpg -bg negative.txt -num 3000 -bgcolor 220 -bgthresh 35 -maxxangle 1.0 -maxyangle 1.0 -maxzangle 1.0 -show -w 30 -h 30

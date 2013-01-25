@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data E:\android\sign\collection\trainedCascade -vec E:\android\sign\collection\positive.vec -bg E:\android\sign\collection\negative.txt -numPos 20 -numNeg 10 -w 150 -h 150 mode ALL

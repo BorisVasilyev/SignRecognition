@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data E:\android\sign\collection\trainedCascade -vec E:\android\sign\collection\positive.vec -bg E:\android\sign\collection\negative.txt -numStages 5 -featureType LBP -minHitRate 0.9 -maxFalseAlarmRate 0.3 -numPos 1000 -numNeg 300 -w 30 -h 30

@@ -1,0 +1,1 @@
+/home/boris/src/OpenCV-2.4.3/build/bin/negative/img1.jpg

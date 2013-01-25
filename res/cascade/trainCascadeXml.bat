@@ -1,0 +1,1 @@
+opencv_traincascade.exe -data trainedCascade.xml -vec positive.vec -bg negative.txt -numPos 200 -numNeg 10 -nStages 9 -precalcValBufSize 256 -precalcIdxBufSize 256 -stageType BOOST -featureType LBP -w 150 -h 150 -bt GAB -minHitRate 0.993 -maxfalsealarm 0.6 -weightTrimRate 0.95 -maxDepth 1 

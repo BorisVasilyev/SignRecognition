@@ -1,0 +1,1 @@
+/home/boris/src/driveAssist_2/src/native/RecognitionTest/unix_way/RecognitionTest_2/video_process/CMakeFiles/video_process.dir
